@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zisi!  
 
-![followers](https://img.shields.io/github/followers/0tia0?style=for-the-badge&logo=github&label=Followers)
-![stars](https://img.shields.io/github/stars/0tia0?style=for-the-badge&logo=github&label=Stars)
+![followers](https://img.shields.io/github/followers/Zisi031?style=for-the-badge&logo=github&label=Followers)
+![stars](https://img.shields.io/github/stars/Zisi031?style=for-the-badge&logo=github&label=Stars)
 
 
 ## 🚀 About Me  
